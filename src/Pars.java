@@ -93,7 +93,7 @@ public class Pars {
         public String prs3(int input){
         String s = "";
 
-        while (input >= 90) {
+        while (input >= 100) {
             s += "C";
             input -= 100;
         }
